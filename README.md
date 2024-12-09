@@ -1,4 +1,4 @@
-#final project
+//final project
 #Walking mode
 
 #include <Servo.h>
@@ -310,7 +310,7 @@ void CenterServos() {
   delay(1000);                
 }
 
-#Dancing of Purrbot
+//Dancing of Purrbot
 #include <Servo.h>
 #include <NewPing.h>
 
