@@ -1,5 +1,5 @@
 //final project
-#Walking mode
+//Walking mode
 
 #include <Servo.h>
 #include <NewPing.h>
