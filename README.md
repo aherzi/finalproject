@@ -1,3 +1,5 @@
+link to video: https://youtu.be/CTGKuwAzFVY
+
 //final project
 //Walking mode
 
