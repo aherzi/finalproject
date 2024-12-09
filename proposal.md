@@ -2,11 +2,10 @@
 
 ## What will (likely) be the title of your project?
 
-Biped Catbot (Biped because it will be walking on two legs instead of four)
-
+Purrbot 3000
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
-I will be making a two-legged robot to make various movements
+I will be making a two-legged robot that will have the ability to walk and dance.
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
