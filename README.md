@@ -357,7 +357,7 @@ void loop() {
   if (cmCenter < Min_DISTANCE) {
       
     Serial.println("Obstacle detected. Dance faster.");
-    StopDance();    
+    FastDance();    
     AvoidObstacle();    
   } else {
       
@@ -375,7 +375,7 @@ int GetSonar() {
 }
 
   
-void StopDance() {
+void FastDance() {
     
   Lleg.write(LLcenter);
   Rleg.write(RLcenter);
